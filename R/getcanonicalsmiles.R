@@ -1,4 +1,4 @@
-getcanonicalsmiles<-<-function(getINK)
+getcanonicalsmiles<-function(getINK)
 {
   ###### This Functions return canonical smiles
   url<- "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/"
